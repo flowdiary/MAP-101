@@ -44,10 +44,8 @@ MAP-101/
 4. Complete assignments in the `assignments/` folder
 
 ## Technologies & Tools
-- **Android**: Kotlin, Java, Android Studio
-- **iOS**: Swift, Xcode
+- **Android/iOS**: Flutter, Android Studio
 - **Backend**: REST APIs, Firebase, WebSockets
-- **Tools**: Git, GitHub, Android Emulator, iOS Simulator
 
 ## Course Schedule
 The course is structured into modules covering different aspects of mobile development, with code examples and practical assignments for each module.
@@ -58,7 +56,7 @@ Students and instructors are encouraged to contribute improvements, additional e
 ## Resources
 - [Android Developer Documentation](https://developer.android.com)
 - [Apple Developer Documentation](https://developer.apple.com)
-- [Flowdiary Learning Platform](https://flowdiary.dev)
+- [Flowdiary Learning Platform](https://flowdiary.ai)
 
 ## Contact & Support
 For questions about the course content or code examples, please reach out to the course instructors or create an issue in this repository.
