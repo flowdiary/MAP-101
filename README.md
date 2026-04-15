@@ -24,25 +24,6 @@ By the end of this course, students will be able to:
 - **Testing & Debugging**: Unit testing and debugging mobile applications
 - **Deployment**: Publishing apps to Google Play Store and Apple App Store
 
-## Repository Structure
-```
-MAP-101/
-├── README.md              # Course overview (this file)
-├── docs/                  # Course documentation and guides
-├── src/                   # Source code examples
-│   ├── android/          # Android-specific examples
-│   ├── ios/              # iOS-specific examples
-│   └── shared/           # Cross-platform code samples
-├── assignments/          # Student assignments
-└── resources/            # Additional learning materials
-```
-
-## Getting Started
-1. Clone this repository
-2. Review the course documentation in the `docs/` folder
-3. Explore code examples in the `src/` folder
-4. Complete assignments in the `assignments/` folder
-
 ## Technologies & Tools
 - **Android/iOS**: Flutter, Android Studio
 - **Backend**: REST APIs, Firebase, WebSockets
